@@ -1,1 +1,1 @@
-Live demo -- https://github.com/Rinki1815/oceonictraining.github.io.git
+Live demo --https://rinki1815.github.io/oceonictraining.github.io/
